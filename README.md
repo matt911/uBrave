@@ -1,6 +1,10 @@
 # uBrave-Origin
 Filters for Brave Shield to be as effective as uBlock Origin's default configuration.
 
+## Guides
+
+[Desktop Guide](https://github.com/matt911/uBrave/edit/main/README.md#guides-1)
+
 ## Filter lists
 
 * uBlock filters
@@ -43,11 +47,20 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 
 ## Guides
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 <details>
-   
+## da   
 <summary>Desktop Guide</summary>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 1. Open Brave
+
+![image](https://github.com/user-attachments/assets/410f084c-04c7-4c05-bbe9-324f3a954208)
+
 2. Go to Settings
 
 ![Screenshot 2024-09-14 110544](https://github.com/user-attachments/assets/0f989fb6-94a6-4098-8962-c3d5c7aee7fe)
@@ -77,7 +90,7 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 
 1. Open Brave
 
-![0_android](https://github.com/user-attachments/assets/1448bddd-a960-4b3e-b249-2c7508ff6def)
+![0_android (Custom)](https://github.com/user-attachments/assets/2a449fb2-b383-4025-9399-b96c97e3ae71)
 
 2. Go to Settings
 
@@ -116,11 +129,29 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 
 
 1. Open Brave
+
+![1_ios (Custom)](https://github.com/user-attachments/assets/7d516a98-9fde-40fc-8f7f-45172cea62db)
+
 2. Go to Settings
 
+![2_ios (Custom)](https://github.com/user-attachments/assets/7b7c1754-a5b1-4180-b8e6-6483e2ab954a)
 
 3. Shields and Privacy
+
+![3_ios (Custom)](https://github.com/user-attachments/assets/74dc0877-b841-44f7-a5c3-a77f05def72d)
+
 4. Content filtering
+
+![4_ios (Custom)](https://github.com/user-attachments/assets/44ad30e7-e29d-402a-8d75-3523cf274cab)
+
 5. Add URL filter
+
+![5_ios (Custom)](https://github.com/user-attachments/assets/19ed7e4f-ae41-444d-90e6-1c7a8a126e79)
+
+6. Paste each filter list URL and press **Add**
+
+![6_ios (Custom)](https://github.com/user-attachments/assets/29411318-5b6a-4fdd-acaa-5001753dda9d)
+
+![7_ios (Custom)](https://github.com/user-attachments/assets/65fe8b57-a21f-4181-8830-a1a0991982f2)
 
 </details>
