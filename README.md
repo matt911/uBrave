@@ -76,9 +76,12 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 <summary>Android Guide</summary>
 
 1. Open Brave
+
+![0_android](https://github.com/user-attachments/assets/1448bddd-a960-4b3e-b249-2c7508ff6def)
+
 2. Go to Settings
 
-![1_android (Custom)](https://github.com/user-attachments/assets/37894952-ca5b-430f-82c3-6eb4a45c817d)
+![1_android (Custom2)](https://github.com/user-attachments/assets/4deacb9a-6c9a-4eab-8397-06ea340047ba)
 
 
 3. Shields and Privacy
