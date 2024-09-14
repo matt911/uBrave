@@ -1,4 +1,4 @@
-# uBrave-Origin
+# uBrave
 Filters for Brave Shield to be as effective as uBlock Origin's default configuration.
 
 ## Filter lists
