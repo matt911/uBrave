@@ -1,32 +1,38 @@
 # uBrave-Origin
 Filters for Brave Shield to be as effective as uBlock Origin's default configuration.
+
 <details>
+   
+<summary>Desktop Guide</summary>
 
-<summary>Android Guide</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
+1. Open Brave
+2. Go to Settings
+3. Shields
+4. Content filtering
+5. Add custom filter lists
 
 </details>
-<details>
 
+<details>
+   
+<summary>Android Guide</summary>
+
+1. Open Brave
+2. Go to Settings
+3. Shields and Privacy
+4. Content filtering
+5. Add list of custom filters
+
+</details>
+
+<details>
+   
 <summary>iOS Guide</summary>
 
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```python
-   print("uwu")
-```
+1. Open Brave
+2. Go to Settings
+3. Shields and Privacy
+4. Content filtering
+5. Add URL filter
 
 </details>
