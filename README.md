@@ -5,21 +5,33 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 
 * uBlock filters
 
-   - Ads: `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt`
+   - Ads
 
-  - Badware risks: `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt`
- 
-  - Privacy: `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt`
- 
-  - Quick fixes: `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt`
- 
-  - Unbreak: `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt`
+     `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt`
+
+   - Badware risks
+
+     `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt`
+
+   - Privacy
+
+     `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt`
+
+   - Quick fixes
+
+     `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt`
+
+   - Unbreak:
+
+     `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt`
 
 * EasyList
 
-   - EasyList: `https://easylist.to/easylist/easylist.txt`
+     `https://easylist.to/easylist/easylist.txt`
  
-   - EasyPrivacy: `https://easylist.to/easylist/easyprivacy.txt`
+* EasyPrivacy
+
+  `https://easylist.to/easylist/easyprivacy.txt`
 
 * Online Malicious URL Blocklist (URLhaus)
 
@@ -65,9 +77,33 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 
 1. Open Brave
 2. Go to Settings
+
+![1_android (Custom)](https://github.com/user-attachments/assets/37894952-ca5b-430f-82c3-6eb4a45c817d)
+
+
 3. Shields and Privacy
+
+![2_android (Custom)](https://github.com/user-attachments/assets/4463d3d6-8f4d-400d-9c24-daae2229a563)
+
+
 4. Content filtering
+
+![3_android (Custom)](https://github.com/user-attachments/assets/60a54d82-e5e1-434d-bcc1-41781ab5eb34)
+
+
 5. Add list of custom filters
+
+![4_android (Custom)](https://github.com/user-attachments/assets/470fa8c2-ee87-4ad4-8748-7e2a17fc9035)
+
+
+6. Paste each filter list URL and press **Add**
+
+![5_android (Custom)](https://github.com/user-attachments/assets/50b14c92-ef35-4c45-a99d-43e7cc912fbd)
+
+7. Press **Update**
+
+![6_android (Custom)](https://github.com/user-attachments/assets/1c8c8f63-2a0f-4aa0-8660-934f7dd8bee7)
+
 
 </details>
 
