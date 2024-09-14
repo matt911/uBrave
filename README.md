@@ -3,7 +3,7 @@ Filters for Brave Shield to be as effective as uBlock Origin's default configura
 
 ## Guides
 
-[Desktop Guide](https://github.com/matt911/uBrave/edit/main/README.md#guides-1)
+[Desktop Guide](https://github.com/matt911/uBrave?tab=readme-ov-file#guides-1)
 
 ## Filter lists
 
